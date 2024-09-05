@@ -15,8 +15,7 @@ A smart dustbin is a more technologically sophisticated version of a standard ga
 
 -> Benefits for public health: Smart dustbins can help stop the spread of disease and enhance cleanliness by minimizing the need for manual trash handling. 
 
-**Smart dustbin applications:
-**
+**Smart dustbin applications:**
 
 -> Residential areas: Smart dustbins can aid with waste management and offer ease of usage at home.
 
