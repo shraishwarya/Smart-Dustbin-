@@ -24,3 +24,7 @@ A smart dustbin is a more technologically sophisticated version of a standard ga
 -> Commercial spaces: To simplify garbage management and cut expenses, smart dustbins can be used in restaurants, hotels, and office buildings. 
 
 -> Industrial settings: Smart dustbins can be used by factories and manufacturing facilities to monitor waste generation and enhance sustainability.
+
+
+
+![image](https://github.com/user-attachments/assets/c3887713-639a-4946-a4f2-f474ec9b7787)
